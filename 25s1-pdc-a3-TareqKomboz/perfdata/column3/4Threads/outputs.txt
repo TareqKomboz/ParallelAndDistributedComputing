@@ -1,0 +1,10 @@
+root ➜ /workspaces/25s1-pdc-a3-TareqKomboz (main) $ ./column3 4 400 1000 0.01 1000 g
+Elapsed time = 2.712872e-01 seconds
+root ➜ /workspaces/25s1-pdc-a3-TareqKomboz (main) $ ./column3 4 400 1000 0.01 1000 g
+Elapsed time = 2.737178e-01 seconds
+root ➜ /workspaces/25s1-pdc-a3-TareqKomboz (main) $ ./column3 4 400 1000 0.01 1000 g
+Elapsed time = 2.708741e-01 seconds
+root ➜ /workspaces/25s1-pdc-a3-TareqKomboz (main) $ ./column3 4 400 1000 0.01 1000 g
+Elapsed time = 2.713002e-01 seconds
+root ➜ /workspaces/25s1-pdc-a3-TareqKomboz (main) $ ./column3 4 400 1000 0.01 1000 g
+Elapsed time = 2.714223e-01 seconds
