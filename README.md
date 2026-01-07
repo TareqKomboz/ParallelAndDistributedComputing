@@ -1,1 +1,1 @@
-# University of Adelaide course on Parallel and Distributed Computing
+# Parallel and Distributed Computing Assignments at the University of Adelaide
