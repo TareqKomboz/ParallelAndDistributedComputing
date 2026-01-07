@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------
+root ➜ /workspaces/25s1-pdc-a2-TareqKomboz (main) $ mpiexec -n 1 ./mvmult
+Enter the number of rows
+128
+Enter the number of columns
+128
+Elapsed time = 2.604833e-03
+-------------------------------------------------------------------------
+root ➜ /workspaces/25s1-pdc-a2-TareqKomboz (main) $ mpiexec -n 2 ./mvmult
+Enter the number of rows
+128
+Enter the number of columns
+128
+Elapsed time = 1.662750e-03
+-------------------------------------------------------------------------
+root ➜ /workspaces/25s1-pdc-a2-TareqKomboz (main) $ mpiexec -n 4 ./mvmult
+Enter the number of rows
+128
+Enter the number of columns
+128
+Elapsed time = 1.951250e-03
+-------------------------------------------------------------------------
