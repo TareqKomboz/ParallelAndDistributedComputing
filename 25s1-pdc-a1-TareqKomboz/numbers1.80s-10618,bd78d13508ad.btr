@@ -1,0 +1,6 @@
+
+numbers1:10618 terminated with signal 11 at PC=555555555372 SP=7ffffffc2d90.  Backtrace:
+./numbers1(+0x1372)[0x555555555372]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7ffffcfb8d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7ffffcfb8e40]
+./numbers1(+0x11e5)[0x5555555551e5]
