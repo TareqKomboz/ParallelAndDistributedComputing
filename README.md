@@ -1,1 +1,1 @@
-# Parallel and Distributed Computing Assignments at the University of Adelaide
+# Implementation of Parallel and Distributed Computing Assignments, University of Adelaide
